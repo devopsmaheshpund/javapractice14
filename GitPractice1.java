@@ -6,5 +6,6 @@ public class GitPractice1 {
 		//b5
 		
 		//main branch conflict
+		//b6 conflict
 	}
 }
